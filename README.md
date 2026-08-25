@@ -22,7 +22,7 @@ Validar o comportamento funcional e as validações do fluxo de Login..., cobrin
 - **Evidências**: Links diretos com imagens comprobatórias no Google Drive.
 - **Bug Reports**: Modelo de reporte padronizado para rastreamento de defeitos.
 
-### 📊 Métricas da Rodada 1 (Regressão)
+### 📊 Métricas da Rodada 1 (Execução de Testes Funcionais)
 - **Casos de Teste Executados:** 6
 - **Passed (Passaram):** 6 (100%)
 - **Failed (Falharam):** 0
